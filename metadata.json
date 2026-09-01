@@ -1,0 +1,7 @@
+{
+  "name": "Polygon to Circle Simulator",
+  "description": "小学生向けに正多角形の角の数を増やして円に近づく様子を観察できるインタラクティブな図形シミュレーター",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
